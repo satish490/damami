@@ -1,3 +1,4 @@
+```
 /*
  * Sample SCSS for adding Superfish CSS to themes.
  *
@@ -7,8 +8,9 @@
  *
  * 2. Add the SCSS to your theme.
  *
- * 3. Note that by removing the .sf-style-none, the style will be applied to the menu regardless of
- *    the "Style" selected in the Superfish block configuration.
+ * 3. Note that by removing the .sf-style-none, the style will be applied to
+ *    the menu regardless of the "Style" selected in the Superfish
+ *    block configuration.
  *
  */
 
@@ -264,3 +266,4 @@ $superfish-1-background-color-level-fourth: #c0c0c0;
     }
   }
 }
+```

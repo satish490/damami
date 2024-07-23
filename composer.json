@@ -54,7 +54,10 @@
         "drupal/quicktabs": "^3.0@alpha",
         "drupal/csv_serialization": "^2.1",
         "drupal/google_translator": "^2.1",
-        "drupal/tabtamer": "^2.0@beta"
+        "drupal/tabtamer": "^2.0@beta",
+        "laminas/laminas-feed": "^2.22",
+        "symfony-cmf/routing": "^2.3",
+        "drupal/upgrade_status": "^4.3"
     },
     "require-dev": {
         "drupal/core-dev": "^9.2"
